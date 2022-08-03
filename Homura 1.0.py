@@ -244,6 +244,6 @@ async def anime(ctx):
     animename = ["Fire Force", "Jojo's Bizzare Adventure", "Hunter X Hunter", "Haikyuu!", "Demon Slayer", "Flame of Rekka"]
     await ctx.send(f">>> __**Here's a random anime reccomendation**__\n ->> {random.choice(animename)}\n\n`Tips : You might as well add your reccomendations by sending them in our Test Server!\nDo '-invite' for Server Link!`")
 
-client.run("NzQxOTk3NjE4MDE5ODI3Nzc0.Xy_tIQ.KZerR1oZwMNeL8l8ej6DjGsOLgM")
+client.run("Your Token Here")
 
 #command under repair ("**[🛠️] Command is under maintenance, thank you for your patience.**")
