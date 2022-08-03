@@ -62,7 +62,7 @@ async def ban_error(ctx, error):
         await ctx.send("**[X] You do not have permission to use this command.**")
     else:
         raise(error)
-#unbann
+#unban
 @client.command()
 @commands.has_permissions(ban_members=True)
 async def unban(ctx, *, member):
