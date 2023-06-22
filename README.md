@@ -1,2 +1,2 @@
 # Homura
-Basic Discord moderation &amp; casual bot coded using Python.py
+Basic Discord moderation &amp; casual bot coded using Discord.py
